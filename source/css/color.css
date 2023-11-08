@@ -1,0 +1,46 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --pink: #dc91d8;
+  --blue-100: #3bbce3;
+  --blue-200: #3d546f;
+  --blue-300: #32425c;
+  --blue-400: #293449;
+  --blue-410: #405069;
+  --blue-500: #212a3a;
+  --blue-600: #1d2739;
+  --blue-700: #161d29;
+  --green-100: #8ed78f;
+  --green-200: #5fbb2d;
+  --green-300: #63a63e;
+  --green-400: #518534;
+  --green-500: #367315;
+  --red-500: #ee3643;
+  --red-600: #ca2c37;
+  --red-700: #ba2732;
+  --yellow-100: #f9f5f0;
+  --yellow-200: #F7F3EC;
+  --yellow-300: #ffbf47;
+  --yellow-400: #ffd180;
+  --yellow-500: #ffc047;
+  --gray-100: #f1f1f1;
+  --gray-200: #f1f5f7;
+  --gray-300: #f3f7f9;
+  --gray-400: #e5e5e5;
+  --gray-450: #f4f4f4;
+  --gray-400: #e5e5e5;
+  --gray-500: #eaeaea;
+  --gray-600: #c5c5c5;
+  --gray-800: #c1c6ce;
+  --gray-900: #a9a9a9;
+  --gray-950: #b5b5b5;
+  --gray-opacity-600-03: rgba(197, 197, 197, 0.3);
+  --gray-opacity-900-03: rgba(169, 169, 169, 0.3);
+
+  --white-opacity-03: rgba(255, 255, 255, 0.3);
+  --white-opacity-05:  rgba(255, 255, 255, 0.5);
+
+  --black-opacity-015: rgba(0, 0, 0, 0.15);
+  --black-opacity-025: rgba(0, 0, 0, 0.25);
+  --black-opacity-01: rgba(0, 0, 0, 0.1);
+}
