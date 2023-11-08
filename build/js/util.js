@@ -1,0 +1,1 @@
+const isEscEvent=e=>27===e.keyCode;export{isEscEvent};

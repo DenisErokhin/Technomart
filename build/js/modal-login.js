@@ -1,0 +1,1 @@
+import{addPopup}from"./modal-general.js";const contactsButton=document.querySelector(".contacts__link"),popupLogin=document.querySelector(".popup-login");contactsButton.addEventListener("click",(t=>{t.preventDefault(),addPopup(popupLogin)}));export{contactsButton};
