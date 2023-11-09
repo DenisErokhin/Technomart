@@ -1,1 +1,1 @@
-const isEscEvent=e=>27===e.keyCode;export{isEscEvent};
+const isEscEvent=e=>27===e.keyCode,getSlider=(e,s,t,c)=>{e.forEach(((e,d)=>{e.addEventListener("click",(()=>{const o=document.querySelector(`.${t}`),r=document.querySelector(`.${c}`);o.classList.remove(t),r.classList.remove(c),e.classList.add(t),s[d].classList.add(c)}))}))};export{isEscEvent,getSlider};

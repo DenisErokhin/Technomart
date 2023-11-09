@@ -1,0 +1,1 @@
+import{getSlider}from"./util.js";const buttons=document.querySelectorAll(".services__button"),slides=document.querySelectorAll(".slider-services__slide"),classActiveSlide="slider-services__slide--active",classActiveButton="services__button--active";getSlider(buttons,slides,classActiveButton,classActiveSlide);
