@@ -1,0 +1,1 @@
+const Url={POST:"https://echo.htmlacademy.ru/"},sendData=t=>{fetch(Url.POST,{method:"POST",body:t}).then((t=>{location.reload()}))};export{sendData};

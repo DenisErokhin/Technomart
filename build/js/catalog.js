@@ -1,1 +1,1 @@
-import"./modal-success.js";
+import"./popup-success.js";import{sendData}from"./api.js";const formFilter=document.querySelector(".filter__form");formFilter.addEventListener("submit",(e=>{e.preventDefault(),sendData(new FormData(e.target))}));
